@@ -15,7 +15,23 @@ This project is a Power BI dashboard that visualizes live scores and statistics 
 - **Cricbuzz API**: Leveraged to fetch live scores and match data.
 - **GitHub**: Version control and project hosting.
 
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/ipl-tournament-dashboard.git
+## Handling the API
+To handle the Cricbuzz API and extract data, follow these steps:
+
+1. **API Authentication**: Obtain an API key from the Cricbuzz API provider (RapidAPI). This key will be required for making requests to the API.
+
+2. **API Documentation**: Refer to the API documentation provided by Cricbuzz to understand the endpoints available and the structure of the data returned by each endpoint.
+
+3. **Power BI Integration**: Use Power BI's Web connector to connect to the Cricbuzz API. Provide the necessary API key and specify the endpoint URL to retrieve the desired data.
+
+4. **Data Transformation**: Use Power BI's data transformation capabilities to clean and shape the data as needed for your dashboard. This may involve filtering out irrelevant information, renaming columns, or combining multiple datasets.
+
+## Usage
+- Open the .pbix file in Power BI Desktop.
+- Interact with the dashboard to explore live scores, player statistics, and team standings.
+- Customize and extend the dashboard as needed for your analysis requirements.
+
+## Screenshots
+
+You can replace `your-username` with your actual GitHub username and add screenshots by uploading them to your repository and referencing them in the "Screenshots" section using Markdown image syntax.
+
