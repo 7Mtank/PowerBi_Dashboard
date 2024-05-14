@@ -37,5 +37,7 @@ To handle the Cricbuzz API and extract data, follow these steps:
 
 ![ipl_pic](https://github.com/7Mtank/PowerBi_Dashboard/assets/139702150/0bc10847-0be9-4727-afc8-814b04c77f93)
 ![Screenshot 2024-05-13 202606](https://github.com/7Mtank/PowerBi_Dashboard/assets/139702150/5ff3c1f4-87e0-4cad-b0ec-1c3a42508509)
+![Screenshot 2024-05-13 202621](https://github.com/7Mtank/PowerBi_Dashboard/assets/139702150/8cccb6ad-32ff-4127-9952-898f958e1944)
+
 
 
