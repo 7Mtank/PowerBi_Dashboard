@@ -33,7 +33,7 @@ To handle the Cricbuzz API and extract data, follow these steps:
 
 ## Screenshots
 
-You can replace `your-username` with your actual GitHub username and add screenshots by uploading them to your repository and referencing them in the "Screenshots" section using Markdown image syntax.
+
 
 ![ipl_pic](https://github.com/7Mtank/PowerBi_Dashboard/assets/139702150/0bc10847-0be9-4727-afc8-814b04c77f93)
 
